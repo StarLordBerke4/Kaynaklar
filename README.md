@@ -323,11 +323,8 @@ Yazılım öğrenmeye başlamak için kendi kullandığım ücertli ve ücretsiz
 # Katkıda Bulunanlar 📁
  Bize bu kaynakları oluşturmamızda yardımcı olan herkese çok teşekkürler. 🥰
  
-- <b>[Yazılım Türkiye Toplulugu Üyeleri](https://t.me/yazilimturkiye)</b>
-- <b>[Fikret YALÇIN](https://github.com/fikretyn)</b>
 	- 📁 Doküman : [Android Studio Dersleri](https://mega.nz/file/b5Fh0SpK#DktDT1wTlz8KuBYO-sSPF1CrqS21bTbUrpzNzRkBNxE)
 	- 📁 Doküman : [Algoritma ve Programlama Giriş](https://mega.nz/file/L1UzEAzJ#HwrHDA6myIk5iLQTGDEdbArZRuVhYKqg1mv_q5RHkMU)
 	- 📁 Doküman : [CSS Dersleri](https://mega.nz/file/nx82HLDa#tBg3fL1ft2izUwONMPuENqfSN3uQoB02n7jW3jzrpcs)
 	- 📁 Doküman : [Geliştiriciler için Java ve Oracle 1](https://mega.nz/file/ToUxiAIK#ecX8o89iExDOOqThh3KPVKC-WqyIhe7OW7zkRU5VT6g)
 	- 📁 Doküman : [Geliştiriciler için Java ve Oracle 2](https://mega.nz/file/ilEHAIQY#4mVy9K8NYjq0Qpzk88L8SKnXaJ28EHJgks2xKYjbfco)
-	- 
