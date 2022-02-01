@@ -320,6 +320,15 @@ Yazılım öğrenmeye başlamak için kendi kullandığım ücertli ve ücretsiz
 	- 📺 Kurs : [Sıfırdan PHP ve MySQL Eğitim Serisi](https://www.udemy.com/course/php-egitim-seti/)
 	- 📺 Kurs : [Sıfırdan İleriye PHP ve MySQL Eğitim Seti [PDO-MYSQLİ]](https://www.udemy.com/course/php-dersleri-a-dan-z-ye-mysql-egitim-seti-pdo-mysqli/)
 ---
+<b>Python</b>
+- 🌍 Web Sitesi :[Python Dersleri - İstihza, Yazbel](https://python-istihza.yazbel.com/)
+- 🌍 Web Sitesi :[Python Dersleri Github - İstihza, Yazbel](https://github.com/yazbel/python-istihza)
+- 📺 Kurs : [Python 3 Dersleri](https://www.youtube.com/playlist?list=PLIHume2cwmHehcxQE1XZieL21syR3m3tR) - [Mustafa Murat Coşkun](https://github.com/mustafamuratcoskun)
+- 🌍 Web Sitesi :[Türkçe Python Kaynakları](https://github.com/ibrahimirdem/turkce-python-kaynaklari)
+- 🌍 Web Sitesi :[Python Programlama Dili](https://medium.com/@halilozel1903/python-programlama-dili-1f1d88ef1e1d) - [Halil ÖZEL](https://github.com/halilozel1903)
+- 📺 Kurs : [6 Saatlik Python Eğitimi](https://www.youtube.com/watch?v=6IWpowC2ryc) - [Engin Demiroğ](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
+- 📺 Kurs : [15 Saatlik Python Eğitim Serisi - Yakın Kampüs](https://www.youtube.com/watch?v=EzHgbO1Cee4&list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O)
+---
 # Katkıda Bulunanlar 📁
  Bize bu kaynakları oluşturmamızda yardımcı olan herkese çok teşekkürler. 🥰
  
