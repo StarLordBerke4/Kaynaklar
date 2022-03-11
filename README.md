@@ -338,3 +338,5 @@ Bu kaynakları oluşturmamda yardımcı olan herkese çok teşekkürler. 🥰
 	- 📁 Doküman : [CSS Dersleri](https://mega.nz/file/nx82HLDa#tBg3fL1ft2izUwONMPuENqfSN3uQoB02n7jW3jzrpcs)
 	- 📁 Doküman : [Geliştiriciler için Java ve Oracle 1](https://mega.nz/file/ToUxiAIK#ecX8o89iExDOOqThh3KPVKC-WqyIhe7OW7zkRU5VT6g)
 	- 📁 Doküman : [Geliştiriciler için Java ve Oracle 2](https://mega.nz/file/ilEHAIQY#4mVy9K8NYjq0Qpzk88L8SKnXaJ28EHJgks2xKYjbfco)
+
+<img src="http://www.fubiz.net/wp-content/uploads/2017/03/cityillustrationsdigital6.jpg" alt="Image from fubiz.net" />
