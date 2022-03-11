@@ -4,6 +4,8 @@ Yazılım öğrenmeye başlamak için kendi kullandığım ücertli ve ücretsiz
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://www.yazilimturkiye.com/yazilimcilar-icin-kaynaklar/)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
+![footer](https://github.com/StarLordBerke4/StarLordBerke4/blob/main/footer.jpg)
+
 ---
 <b>ALGORİTMA</b>
 - <b>Ücretsiz Kaynaklar</b>
