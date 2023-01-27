@@ -332,7 +332,7 @@ Yazılım öğrenmeye başlamak için kendi kullandığım ücertli ve ücretsiz
 - 📺 Kurs : [15 Saatlik Python Eğitim Serisi - Yakın Kampüs](https://www.youtube.com/watch?v=EzHgbO1Cee4&list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O)
 ---
 # Katkıda Bulunanlar 📁
-Bu kaynakları oluşturmamda yardımcı olan herkese çok teşekkürler. 🥰
+Bu kaynakları oluşturmamda yardımcı olan herkese çok teşekkürler... 🥰
 	- 📁 Doküman : [Android Studio Dersleri](https://mega.nz/file/b5Fh0SpK#DktDT1wTlz8KuBYO-sSPF1CrqS21bTbUrpzNzRkBNxE)
 	- 📁 Doküman : [Algoritma ve Programlama Giriş](https://mega.nz/file/L1UzEAzJ#HwrHDA6myIk5iLQTGDEdbArZRuVhYKqg1mv_q5RHkMU)
 	- 📁 Doküman : [CSS Dersleri](https://mega.nz/file/nx82HLDa#tBg3fL1ft2izUwONMPuENqfSN3uQoB02n7jW3jzrpcs)
