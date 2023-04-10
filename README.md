@@ -343,8 +343,6 @@ Bu kaynakları oluşturmamda yardımcı olan herkese çok teşekkürler... 🥰
 
 <br>
 <br>
-<br>
-<br>
 
 # Yazılımcılar için Kaynaklar/Resources for Programmers 📚
 
