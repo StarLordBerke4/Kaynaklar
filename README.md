@@ -342,8 +342,6 @@ Bu kaynakları oluşturmamda yardımcı olan herkese çok teşekkürler... 🥰
 <img src="http://www.fubiz.net/wp-content/uploads/2017/03/cityillustrationsdigital6.jpg" alt="Image from fubiz.net" />
 
 <br>
-<br>
-
 # Yazılımcılar için Kaynaklar/Resources for Programmers 📚
 
 Aşağıdaki linkler vasıtasıyla yazılımcılar için önerilen kaynaklara (ücretli veya ücretsiz) erişebilirsiniz. Bu repo sık sık güncellenecektir, sizler de ekleme yapabilirsiniz.
